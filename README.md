@@ -8,7 +8,7 @@ A Fullstack Developer from Brazil
 ---
 <div align="center">
 
-![Linkedin/in/gilmarllen](https://img.shields.io/badge/in/gilmarllen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "www.linkedin.com")
+[![Linkedin](https://img.shields.io/badge/in/gilmarllen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilmarllen)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilmarllen&count_bg=%233D76C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
